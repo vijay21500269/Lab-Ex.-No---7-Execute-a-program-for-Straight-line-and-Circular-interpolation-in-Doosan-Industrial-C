@@ -51,7 +51,7 @@ Manipulate the end effector as per the given configuration. Movement Should Init
 ## Linear Interpolation:
 ![pic 6](https://github.com/vijay21500269/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/blob/main/Final%20Program%20Linear.png)
 ## Circular Interpolation:
-![pic 7]()
+![pic 7](https://github.com/vijay21500269/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/blob/main/circular%20interpolation.png)
 
 
 
