@@ -43,7 +43,7 @@ Manipulate the end effector as per the given configuration. Movement Should Init
 
 
 ### output
-![pic 1]()
+![pic 1](https://github.com/vijay21500269/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/blob/main/Ex.7%20pic%201.png)
 ![pic 2]()
 ![pic 3]()
 ![pic 4]()
